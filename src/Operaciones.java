@@ -23,7 +23,9 @@ public class Operaciones {
 
     public void limpiar(){
 
-    }
+    public void nose(){
+        num1=0;
+        }
 
 
 }
